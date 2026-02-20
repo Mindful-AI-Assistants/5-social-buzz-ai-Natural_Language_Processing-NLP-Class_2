@@ -176,10 +176,20 @@ The system follows a structured cascade NLP pipeline:]()
 Natural Language Processing is widely used in real-world systems. Key applications:
 
 
+<br> 
+
+| Application                         | Description |
+|------------------------------------|------------|
+| Sentiment Analysis                 | Determines the emotional tone (positive, negative, neutral) in text such as customer reviews, social media posts, or news articles. |
+| Named Entity Recognition (NER)     | Identifies and categorizes key entities such as people, organizations, locations, and dates. |
+| Machine Translation                | Automatically translates text or speech from one language to another. |
+| Chatbots and Virtual Assistants    | Enables machines to understand and respond to user queries in a human-like way. |
+| Text Summarization                 | Generates concise summaries of large documents or articles. |
+| Topic Modeling                     | Discovers abstract topics in a collection of documents for clustering and analysis. |
 
 
 
-
+<br> 
 
 
 
