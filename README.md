@@ -131,7 +131,7 @@ The main objectives of this project are:
 
 ## [Project Architecture]()
 
-### **Pipeline Flow**:
+### [**Pipeline Flow**]():
 
 - Raw Text Data ↓ 
 - Text Cleaning ↓ 
@@ -145,7 +145,7 @@ The main objectives of this project are:
 
 <br>
 
-### **Advanced demonstrations also include**:
+### [**Advanced demonstrations also include**]():
 
 - Word embeddings (Word2Vec, GloVe)  
 - Contextual embeddings (BERT)  
