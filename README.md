@@ -7,7 +7,7 @@
 
 <br>
 
-# <p align="center"> 5- Social [Buzz AI]() - Natural Language Processing (NLP) Proje-c [Class 2 - Project]() - Lesson on Vector Representations and Text Classification
+# <p align="center"> 5- Social [Buzz AI]() - Natural Language Processing (NLP)  [Class 2 - Project]() - Lesson on Vector Representations and Text Classification
 
 
 A complete educational implementation of a Natural Language Processing (NLP) pipeline for social media sentiment classification. This project demonstrates how computers transform human language into numerical representations, learn patterns, and make predictions about emotional tone in text data.
