@@ -126,9 +126,34 @@ The main objectives of this project are:
 - Enable interactive prediction on new user input
 
 
+<br><br>
+
+
+## Project Architecture
+
+Pipeline Flow:
+
+Raw Text Data ↓ 
+Text Cleaning ↓ 
+Tokenization ↓ 
+Stopword Removal ↓ 
+Feature Engineering ↓ Vectorization ↓ 
+Model Training ↓ 
+Model Evaluation ↓ 
+Model Persistence ↓ 
+Interactive Prediction
+
+<br>
+
+Advanced demonstrations also include:
+
+- Word embeddings (Word2Vec, GloVe)  
+- Contextual embeddings (BERT)  
+- Vector similarity computation  
 
 
 
+<br><br>
 
 
 
