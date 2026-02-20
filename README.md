@@ -10,9 +10,17 @@
 # <p align="center"> 5- Social [Buzz AI]() - Natural Language Processing (NLP)  [Class 2 - Project]() - Lesson on Vector Representations and Text Classification
 
 
-A complete educational implementation of a Natural Language Processing (NLP) pipeline for social media sentiment classification. This project demonstrates how computers transform human language into numerical representations, learn patterns, and make predictions about emotional tone in text data.
 
-This repository progresses from mathematical foundations to a fully functional machine learning model capable of classifying sentiment in tweets.
+A complete educational implementation of a Natural Language Processing (NLP) pipeline for social media sentiment classification. This project illustrates how computers convert human language into structured numerical representations, learn linguistic patterns, and predict emotional tone in text data.
+
+The notebook presents an end-to-end NLP workflow, guiding the reader from raw text preprocessing to model training and evaluation. It demonstrates how unstructured language is transformed into machine-readable features and how a machine learning model leverages those features to classify sentiment accurately.
+
+The project covers both foundational and advanced NLP concepts, including vector mathematics, cosine similarity, word embeddings, Bag-of-Words vectorization, and transformer-based contextual embeddings with BERT. Each stage is implemented with educational clarity, connecting theory to practical application.
+
+The architecture mirrors real-world NLP systems used in sentiment analysis, social media monitoring, customer feedback analytics, and intelligent automation solutions.
+
+The repository is structured as a progressive learning journey — beginning with mathematical fundamentals and culminating in a fully functional sentiment classification model for social media text.
+
 
 
 <br><br>
