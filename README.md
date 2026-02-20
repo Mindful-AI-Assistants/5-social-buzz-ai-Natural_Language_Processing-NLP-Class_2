@@ -129,7 +129,9 @@ The main objectives of this project are:
 <br><br>
 
 
-## [Project Architecture]()
+## [NLP Pipeline Architecture]()
+
+The system follows a structured cascade NLP pipeline:]()
 
 ### [**Pipeline Flow**]():
 
@@ -155,8 +157,23 @@ The main objectives of this project are:
 
 <br><br>
 
+## [Libraries Used]()
+* numpy
+* pandas
+* nltk
+* sklearn
+* gensim
+* safetensors
+* transformers
+* pickle
 
 
+ 
+<br><br> 
+
+## [NLP Applications in Data Science]()
+
+Natural Language Processing is widely used in real-world systems. Key applications:
 
 
 
