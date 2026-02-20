@@ -133,15 +133,15 @@ The main objectives of this project are:
 
 Pipeline Flow:
 
-Raw Text Data ↓ 
-Text Cleaning ↓ 
-Tokenization ↓ 
-Stopword Removal ↓ 
-Feature Engineering ↓ Vectorization ↓ 
-Model Training ↓ 
-Model Evaluation ↓ 
-Model Persistence ↓ 
-Interactive Prediction
+- Raw Text Data ↓ 
+- Text Cleaning ↓ 
+- Tokenization ↓ 
+- Stopword Removal ↓ 
+- Feature Engineering ↓ Vectorization ↓ 
+- Model Training ↓ 
+- Model Evaluation ↓ 
+- Model Persistence ↓ 
+- Interactive Prediction
 
 <br>
 
