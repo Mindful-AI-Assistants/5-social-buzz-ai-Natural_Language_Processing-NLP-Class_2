@@ -61,7 +61,7 @@ This repository progresses from mathematical foundations to a fully functional m
 <!--Confidentiality Statement-->
 
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > ⚠️ Heads Up 
 >
