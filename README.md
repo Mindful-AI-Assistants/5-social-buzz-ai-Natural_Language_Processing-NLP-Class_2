@@ -47,7 +47,7 @@ This repository progresses from mathematical foundations to a fully functional m
 > * [1-social-buzz-ai-main](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main)
 > *Part of the Humanistic AI Research & Data Modeling Series — where data meets human insight.*
 >
-> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1) 
+> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NLP-Class_1) 
 > 
 > * [Embedding Projector](https://projector.tensorflow.org/)
 > 
