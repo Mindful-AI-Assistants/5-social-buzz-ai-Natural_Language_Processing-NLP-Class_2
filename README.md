@@ -95,7 +95,7 @@
 <br><br><br>
 
 
-## [Overview](
+## [Overview]()
 
 A complete educational implementation of a Natural Language Processing (NLP) pipeline for social media sentiment classification. This project illustrates how computers convert human language into structured numerical representations, learn linguistic patterns, and predict emotional tone in text data.
 
@@ -111,7 +111,7 @@ The repository is structured as a progressive learning journey — beginning wit
 <br><br>
 
 
-## [Objectives](
+## [Objectives]()
 
 The main objectives of this project are:
 
@@ -129,9 +129,9 @@ The main objectives of this project are:
 <br><br>
 
 
-## Project Architecture
+## [Project Architecture]()
 
-Pipeline Flow:
+### **Pipeline Flow**:
 
 - Raw Text Data ↓ 
 - Text Cleaning ↓ 
