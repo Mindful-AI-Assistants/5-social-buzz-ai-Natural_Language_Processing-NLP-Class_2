@@ -178,7 +178,7 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
 <br> 
 
-| [Application()                      | [Description() |
+| [Application]()                      | [Description]() |
 |------------------------------------|------------|
 | Sentiment Analysis                 | Determines the emotional tone (positive, negative, neutral) in text such as customer reviews, social media posts, or news articles. |
 | Named Entity Recognition (NER)     | Identifies and categorizes key entities such as people, organizations, locations, and dates. |
