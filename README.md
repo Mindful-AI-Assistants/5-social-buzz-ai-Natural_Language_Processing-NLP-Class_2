@@ -387,11 +387,7 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 <br><br>
 
 
-11. Model Evaluation
-
-<br>
-
-Evaluation metrics may include:
+## 11. [Model Evaluation]()
 
 <br>
 
