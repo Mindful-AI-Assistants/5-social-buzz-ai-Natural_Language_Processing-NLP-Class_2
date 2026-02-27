@@ -117,6 +117,9 @@ The notebook follows a progressive workflow:
 
 By combining foundational concepts with modern NLP architectures, the project bridges theory and practical implementation. Its structure mirrors real-world systems used in social media analytics, customer feedback intelligence, brand monitoring, opinion mining, and automated text classification.
 
+  <br> 
+
+
 The result is a structured learning journey — from mathematical fundamentals to a fully operational sentiment analysis model ready for practical application.
 
 
@@ -128,13 +131,13 @@ The result is a structured learning journey — from mathematical fundamentals t
 
 <br>
 
-- Build a complete NLP pipeline from raw text to prediction  
-- Apply text cleaning and normalization techniques  
-- Convert text into numerical feature representations  
-- Implement Bag of Words and word embedding approaches  
-- Train and evaluate a supervised classification model  
-- Persist trained models for reuse  
-- Enable real-time prediction from user input  
+[*]() Build a complete NLP pipeline from raw text to prediction    <br> 
+[*]() Apply text cleaning and normalization techniques    <br> 
+[*]() Convert text into numerical feature representations    <br> 
+[*]() Implement Bag of Words and word embedding approaches    <br> 
+[*]() Train and evaluate a supervised classification model    <br> 
+[*]() Persist trained models for reuse    <br> 
+[*]() Enable real-time prediction from user input  
 
 <br><br>
 
