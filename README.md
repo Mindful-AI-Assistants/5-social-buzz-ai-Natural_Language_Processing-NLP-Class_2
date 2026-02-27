@@ -191,7 +191,19 @@ Raw Text ↓ Text Cleaning ↓ Tokenization ↓ Stopword Removal �
 <br><br>
 
 
+## [1. What Is This Notebook About?]()
 
+<br>
+
+This notebook demonstrates how machines learn to understand human language through structured numerical transformations.
+
+The objective is to classify textual messages into sentiment categories such as:
+
+- Positive  
+- Negative  
+- Neutral  
+
+<br><br>
 
 
 
