@@ -514,6 +514,9 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
  <br>   
 
 
+1. **NLTK Corpus Guidelines** for Twitter data preprocessing 
+2. **Scikit-learn Vectorizers** (Pedregosa et al., 2011) for pipeline implementation
+3. **Cosine Similarity Math** from Information Retrieval theory (Manning et al., 2008)
 
 
 
