@@ -367,7 +367,24 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 
 
+10. Model Training
 
+<br>
+
+
+```python
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score
+
+model = MultinomialNB()
+model.fit(X_train, y_train)
+
+predictions = model.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, predictions))
+```
+
+
+<br><br>
 
 
 
