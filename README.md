@@ -416,7 +416,7 @@ with open("model.pkl", "wb") as f:
 <br><br>
 
 
-13. Interactive Prediction
+13. [Interactive Prediction]()
 
 <br>
 
