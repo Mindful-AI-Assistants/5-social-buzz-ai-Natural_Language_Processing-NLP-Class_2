@@ -473,6 +473,23 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 <br><br> 
 
 
+## 15.[ Bibliographic References]()
+
+<br> 
+
+###  **Core Textbooks**
+
+1. **Jurafsky, D., & Martin, J. H.** *Speech and Language Processing* (3rd ed.). Pearson, 2023. (Foundational NLP pipeline, tokenization, preprocessing) 
+2. **Bird, S., Klein, E., & Loper, E.** *Natural Language Processing with Python*. O'Reilly Media, 2009. (NLTK, text preprocessing, sentiment basics) 
+3. **Eisenstein, J.** *Introduction to Natural Language Processing*. MIT Press, 2019. (Vector representations, cosine similarity) 
+4. **Manning, C. D., Raghavan, P., & Schütze, H.** *Introduction to Information Retrieval*. Cambridge University Press, 2008. (TF-IDF, vector space model for tweets) [github]
+
+ <br>   
+
+### 📖 **Key Academic Papers**
+
+
+
 
 
 <!-- ======================================= Start DEFAULT Footer ===========================================  -->
