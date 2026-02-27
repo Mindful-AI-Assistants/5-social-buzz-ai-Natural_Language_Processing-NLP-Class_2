@@ -315,6 +315,24 @@ print(df.head())
 <br><br>
 
 
+7. Text Preprocessing
+
+<br>
+
+
+```python
+import nltk
+nltk.download("stopwords")
+
+stopwords = nltk.corpus.stopwords.words("portuguese")
+```
+
+
+<br><br>
+
+
+
+
 
 
 
