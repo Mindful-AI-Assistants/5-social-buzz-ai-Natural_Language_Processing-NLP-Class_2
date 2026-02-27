@@ -486,7 +486,21 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>   
 
-### 📖 **Key Academic Papers**
+###  **Key Academic Papers**
+
+ <br>   
+
+1. **Pang, B., & Lee, L.** "Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales." *ACL 2005*. (Early Twitter sentiment analysis foundation) 
+2. **Pak, A., & Paroubek, P.** "Twitter as a Corpus for Sentiment Analysis and Opinion Mining." *LREC 2010*. (Tweet-specific preprocessing challenges) 
+3. **Severyn, A., & Moschitti, A.** "Twitter sentiment analysis with deep convolutional neural networks." *SIGIR 2015*. (Modern vector-based sentiment) 
+4. **Pennington, J., Socher, R., & Manning, C. D.** "GloVe: Global Vectors for Word Representation." *EMNLP 2014*. (Word embeddings for social media) 
+
+ <br>   
+
+###  **Technical Standards & Frameworks**
+
+ <br>  
+
 
 
 
