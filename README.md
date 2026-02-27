@@ -460,13 +460,13 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 ## 15. [Technologies Demonstrated()
 
 
-* Natural Language Processing
-* Machine Learning
-* Text Classification
-* Word Embeddings
-* Transformer Models (BERT)
-* Feature Engineering
-* Model Persistence
+[*]() Natural Language Processing <br> 
+* Machine Learning <br> 
+* Text Classification <br> 
+* Word Embeddings <br> 
+* Transformer Models (BERT) <br> 
+* Feature Engineering <br> 
+* Model Persistence <br> 
 
 
 
@@ -490,10 +490,10 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>   
 
-1. **Pang, B., & Lee, L.** "Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales." *ACL 2005*. (Early Twitter sentiment analysis foundation) <br> 
-2. **Pak, A., & Paroubek, P.** "Twitter as a Corpus for Sentiment Analysis and Opinion Mining." *LREC 2010*. (Tweet-specific preprocessing challenges) <br> 
-3. **Severyn, A., & Moschitti, A.** "Twitter sentiment analysis with deep convolutional neural networks." *SIGIR 2015*. (Modern vector-based sentiment) <br> 
-4. **Pennington, J., Socher, R., & Manning, C. D.** "GloVe: Global Vectors for Word Representation." *EMNLP 2014*. (Word embeddings for social media) <br> 
+[1.]() **Pang, B., & Lee, L.** "Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales." *ACL 2005*. (Early Twitter sentiment analysis foundation) <br> 
+[2.]() **Pak, A., & Paroubek, P.** "Twitter as a Corpus for Sentiment Analysis and Opinion Mining." *LREC 2010*. (Tweet-specific preprocessing challenges) <br> 
+[3.]() **Severyn, A., & Moschitti, A.** "Twitter sentiment analysis with deep convolutional neural networks." *SIGIR 2015*. (Modern vector-based sentiment) <br> 
+[4.]() **Pennington, J., Socher, R., & Manning, C. D.** "GloVe: Global Vectors for Word Representation." *EMNLP 2014*. (Word embeddings for social media) <br> 
 
  <br>   
 
@@ -501,9 +501,9 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>  
 
-1. **NLTK Documentation** (Bird et al., 2009) - Tokenization, stemming, stop words <br> 
-2. **Scikit-learn Text Feature Extraction** - TF-IDF, cosine similarity metrics <br> 
-3. **Hugging Face Transformers** (Wolf et al., 2020) - Modern NLP pipelines <br> 
+[1.]() **NLTK Documentation** (Bird et al., 2009) - Tokenization, stemming, stop words <br> 
+[2.]() **Scikit-learn Text Feature Extraction** - TF-IDF, cosine similarity metrics <br> 
+[3.]() **Hugging Face Transformers** (Wolf et al., 2020) - Modern NLP pipelines <br> 
 
 
  <br>   
@@ -514,9 +514,9 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
  <br>   
 
 
-1. **NLTK Corpus Guidelines** for Twitter data preprocessing  <br>
-2. **Scikit-learn Vectorizers** (Pedregosa et al., 2011) for pipeline implementation <br> 
-3. **Cosine Similarity Math** from Information Retrieval theory (Manning et al., 2008) <br> 
+[1.]() **NLTK Corpus Guidelines** for Twitter data preprocessing  <br>
+[2.]() **Scikit-learn Vectorizers** (Pedregosa et al., 2011) for pipeline implementation <br> 
+[3.]() **Cosine Similarity Math** from Information Retrieval theory (Manning et al., 2008) <br> 
 
 
  <br><br> 
