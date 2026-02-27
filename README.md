@@ -331,6 +331,20 @@ stopwords = nltk.corpus.stopwords.words("portuguese")
 <br><br>
 
 
+8. Bag of Words Vectorization
+
+<br>
+
+
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+
+vectorizer = CountVectorizer(stop_words=stopwords)
+X = vectorizer.fit_transform(df["Text"])
+```
+
+
+<br><br>
 
 
 
