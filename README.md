@@ -401,6 +401,36 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 <br><br>
 
 
+## 12. [Model Persistence]()
+
+<br>
+
+```python
+import pickle
+
+with open("model.pkl", "wb") as f:
+    pickle.dump(model, f)
+```
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
