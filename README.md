@@ -331,7 +331,7 @@ stopwords = nltk.corpus.stopwords.words("portuguese")
 <br><br>
 
 
-8. Bag of Words Vectorization
+## 8. [Bag of Words Vectorization]()
 
 <br>
 
