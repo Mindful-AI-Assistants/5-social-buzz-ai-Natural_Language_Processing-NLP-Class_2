@@ -477,7 +477,7 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
 <br> 
 
-###  **Core Textbooks**
+### *  [**Core Textbooks**]()
 
 [1.]() **Jurafsky, D., & Martin, J. H.** *Speech and Language Processing* (3rd ed.). Pearson, 2023. (Foundational NLP pipeline, tokenization, preprocessing) <br> 
 [2.]() **Bird, S., Klein, E., & Loper, E.** *Natural Language Processing with Python*. O'Reilly Media, 2009. (NLTK, text preprocessing, sentiment basics) <br> 
@@ -486,7 +486,7 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>   
 
-###  [**Key Academic Papers**]()
+### *  [**Key Academic Papers**]()
 
  <br>   
 
@@ -497,7 +497,7 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>   
 
-###  [**Technical Standards & Frameworks**]()
+###  *  [**Technical Standards & Frameworks**]()
 
  <br>  
 
@@ -509,12 +509,12 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
  <br>   
 
 
-###  [**Code & Implementation References**]()
+### *  [**Code & Implementation References**]()
 
  <br>   
 
 
-1. **NLTK Corpus Guidelines** for Twitter data preprocessing 
+1. **NLTK Corpus Guidelines** for Twitter data preprocessing  <br>
 2. **Scikit-learn Vectorizers** (Pedregosa et al., 2011) for pipeline implementation <br> 
 3. **Cosine Similarity Math** from Information Retrieval theory (Manning et al., 2008) <br> 
 
