@@ -145,6 +145,21 @@ The architecture reflects real-world NLP systems used in:
 
 <br><br>
 
+## [Libraries Used]()
+
+<br>
+
+- `numpy` — numerical computation and linear algebra  
+- `pandas` — data manipulation and analysis  
+- `nltk` — text preprocessing and stopword filtering  
+- `scikit-learn` — machine learning models and vectorization tools  
+- `gensim` — word embedding models  
+- `transformers` — contextual embeddings (BERT)  
+- `torch` — deep learning backend  
+- `safetensors` — optimized tensor storage  
+- `pickle` — model serialization  
+
+<br><br>
 
 
 
