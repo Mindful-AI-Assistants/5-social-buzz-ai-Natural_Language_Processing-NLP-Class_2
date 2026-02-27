@@ -97,35 +97,28 @@
 
 ## [Overview]()
 
-A complete educational implementation of a Natural Language Processing (NLP) pipeline for social media sentiment classification. This project illustrates how computers convert human language into structured numerical representations, learn linguistic patterns, and predict emotional tone in text data.
+**Social Buzz AI** is an end-to-end Natural Language Processing (NLP) project focused on sentiment classification for social media data.
 
-The notebook presents an end-to-end NLP workflow, guiding the reader from raw text preprocessing to model training and evaluation. It demonstrates how unstructured language is transformed into machine-readable features and how a machine learning model leverages those features to classify sentiment accurately.
+The repository demonstrates how raw, unstructured text is systematically transformed into structured numerical representations that machines can interpret. Through a complete machine learning pipeline, the project illustrates how linguistic patterns are extracted, modeled, and used to predict sentiment categories such as positive, negative, and neutral.
 
-The project covers both foundational and advanced NLP concepts, including vector mathematics, cosine similarity, word embeddings, Bag-of-Words vectorization, and transformer-based contextual embeddings with BERT. Each stage is implemented with educational clarity, connecting theory to practical application.
+ <br> 
 
-The architecture mirrors real-world NLP systems used in sentiment analysis, social media monitoring, customer feedback analytics, and intelligent automation solutions.
+The notebook follows a progressive workflow:
 
-The repository is structured as a progressive learning journey — beginning with mathematical fundamentals and culminating in a fully functional sentiment classification model for social media text.
+[*]() Text preprocessing and normalization   <br> 
+[*]() Feature engineering and vectorization (Bag-of-Words)   <br> 
+[*]() Mathematical foundations (vectors and cosine similarity)   <br> 
+[*]() Word embeddings and contextual representations   <br> 
+[*]() Transformer-based modeling with BERT   <br> 
+[*]() Model training, evaluation, and persistence   <br> 
+[*]() Interactive sentiment inference  <br> 
 
+ <br> 
 
-<br><br>
+By combining foundational concepts with modern NLP architectures, the project bridges theory and practical implementation. Its structure mirrors real-world systems used in social media analytics, customer feedback intelligence, brand monitoring, opinion mining, and automated text classification.
 
+The result is a structured learning journey — from mathematical fundamentals to a fully operational sentiment analysis model ready for practical application.
 
-## [Overview]()
-
-<br>
-
-**Social Buzz AI** is a production-oriented Natural Language Processing (NLP) project designed to transform raw textual data into structured numerical representations and perform sentiment classification using machine learning.
-
-This repository demonstrates a complete end-to-end NLP workflow, including preprocessing, feature engineering, vectorization, model training, evaluation, persistence, and interactive inference.
-
-The architecture reflects real-world NLP systems used in:
-
-- Social media monitoring  
-- Customer feedback analysis  
-- Brand intelligence  
-- Opinion mining  
-- Automated text classification  
 
 
 <br><br>
