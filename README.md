@@ -103,7 +103,9 @@ The repository demonstrates how raw, unstructured text is systematically transfo
 
  <br> 
 
-The notebook follows a progressive workflow:
+### - [The notebook follows a progressive workflow:]()
+
+ <br> 
 
 [*]() Text preprocessing and normalization   <br> 
 [*]() Feature engineering and vectorization (Bag-of-Words)   <br> 
