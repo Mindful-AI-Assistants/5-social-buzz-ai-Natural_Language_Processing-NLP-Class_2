@@ -416,8 +416,19 @@ with open("model.pkl", "wb") as f:
 <br><br>
 
 
+13. Interactive Prediction
+
+<br>
+
+```python
+text_input = input("Type a message: ")
+vector = vectorizer.transform([text_input])
+prediction = model.predict(vector)
+print("Predicted sentiment:", prediction)
+```
 
 
+<br><br>
 
 
 
