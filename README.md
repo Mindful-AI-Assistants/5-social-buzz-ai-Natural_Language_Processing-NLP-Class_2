@@ -252,7 +252,17 @@ print("Cosine Similarity:", cos_sim)
 
 
 
+## 4. [Word Embeddings]()
+   
+Dense vector representations that capture semantic meaning.
+Example:
 
+
+```python
+king - man + woman ≈ queen
+```
+
+<br><br>
 
 
 
