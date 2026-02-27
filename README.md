@@ -111,100 +111,23 @@ The repository is structured as a progressive learning journey — beginning wit
 <br><br>
 
 
-## [Objectives]()
-
-The main objectives of this project are:
-
-- Build a complete NLP pipeline from raw text to prediction
-- Clean and preprocess unstructured text data
-- Tokenize and normalize text
-- Transform text into numerical feature representations
-- Apply feature engineering techniques such as Bag of Words and embeddings
-- Train a machine learning model for sentiment classification
-- Evaluate model performance
-- Persist the trained model for reuse
-- Enable interactive prediction on new user input
-
-
-<br><br>
-
-
-## [NLP Pipeline Architecture]()
-
-The system follows a structured cascade NLP pipeline:]()
-
-### [**Pipeline Flow**]():
-
-- Raw Text Data ↓ 
-- Text Cleaning ↓ 
-- Tokenization ↓ 
-- Stopword Removal ↓ 
-- Feature Engineering ↓ Vectorization ↓ 
-- Model Training ↓ 
-- Model Evaluation ↓ 
-- Model Persistence ↓ 
-- Interactive Prediction
+## [Overview]()
 
 <br>
 
-### [**Advanced demonstrations also include**]():
+**Social Buzz AI** is a production-oriented Natural Language Processing (NLP) project designed to transform raw textual data into structured numerical representations and perform sentiment classification using machine learning.
 
-- Word embeddings (Word2Vec, GloVe)  
-- Contextual embeddings (BERT)  
-- Vector similarity computation  
+This repository demonstrates a complete end-to-end NLP workflow, including preprocessing, feature engineering, vectorization, model training, evaluation, persistence, and interactive inference.
 
+The architecture reflects real-world NLP systems used in:
 
+- Social media monitoring  
+- Customer feedback analysis  
+- Brand intelligence  
+- Opinion mining  
+- Automated text classification  
 
 <br><br>
-
-## [Libraries Used]()
-* numpy
-* pandas
-* nltk
-* sklearn
-* gensim
-* safetensors
-* transformers
-* pickle
-
-
- 
-<br><br> 
-
-## [NLP Applications in Data Science]()
-
-Natural Language Processing is widely used in real-world systems. Key applications:
-
-
-<br> 
-
-| [Application]()                      | [Description]() |
-|------------------------------------|------------|
-| Sentiment Analysis                 | Determines the emotional tone (positive, negative, neutral) in text such as customer reviews, social media posts, or news articles. |
-| Named Entity Recognition (NER)     | Identifies and categorizes key entities such as people, organizations, locations, and dates. |
-| Machine Translation                | Automatically translates text or speech from one language to another. |
-| Chatbots and Virtual Assistants    | Enables machines to understand and respond to user queries in a human-like way. |
-| Text Summarization                 | Generates concise summaries of large documents or articles. |
-| Topic Modeling                     | Discovers abstract topics in a collection of documents for clustering and analysis. |
-
-
-
-<br><br> 
-
-## [Table of Contents](0
-
-1. What Is This Notebook About?
-2. Playing With Numbers (Vectors)
-3. Finding Out If Two Things Are Alike (Cosine Similarity)
-4. Using Secret Codes For Words (Word Embeddings)
-5. Super-Secret Codes: Transformers and BERT
-6. Getting Our Messages (Loading Data)
-7. Cleaning Up Our Messages (Text Preprocessing)
-8. Turning Words Into Numbers (Bag of Words)
-9. Splitting Our Messages (Training and Testing)
-10. Teaching Our Computer To Guess Feelings (Model Training)
-11. Saving Our Computer’s Brain For Later (Model Persistence)
-12. Asking The Computer To Guess For Us! (Interactive Prediction)
 
 
 
