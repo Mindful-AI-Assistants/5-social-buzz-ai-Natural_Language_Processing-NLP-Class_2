@@ -501,6 +501,18 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
  <br>  
 
+1. **NLTK Documentation** (Bird et al., 2009) - Tokenization, stemming, stop words 
+2. **Scikit-learn Text Feature Extraction** - TF-IDF, cosine similarity metrics 
+3. **Hugging Face Transformers** (Wolf et al., 2020) - Modern NLP pipelines 
+
+
+ <br>   
+
+
+###  **Code & Implementation References**
+
+ <br>   
+
 
 
 
