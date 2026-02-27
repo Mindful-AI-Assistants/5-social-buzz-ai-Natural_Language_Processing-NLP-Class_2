@@ -452,24 +452,25 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 | [Topic Modeling]()                    | Discovers abstract topics in a collection of documents for clustering and analysis. |
 
 
+
 <br><br> 
 
 
 
+## 15. [Technologies Demonstrated()
+
+
+* Natural Language Processing
+* Machine Learning
+* Text Classification
+* Word Embeddings
+* Transformer Models (BERT)
+* Feature Engineering
+* Model Persistence
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<br><br> 
 
 
 
