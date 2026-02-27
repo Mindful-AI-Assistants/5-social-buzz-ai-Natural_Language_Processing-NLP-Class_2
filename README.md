@@ -347,7 +347,7 @@ X = vectorizer.fit_transform(df["Text"])
 <br><br>
 
 
-9. Train-Test Split
+## 9. [Train-Test Split]()
 
 <br>
 
