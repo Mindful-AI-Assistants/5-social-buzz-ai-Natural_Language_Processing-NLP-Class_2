@@ -162,6 +162,13 @@ The architecture reflects real-world NLP systems used in:
 <br><br>
 
 
+## [NLP Pipeline Architecture]()
+
+<br>
+
+Raw Text ↓ Text Cleaning ↓ Tokenization ↓ Stopword Removal ↓ Feature Engineering ↓ Vectorization ↓ Model Training ↓ Model Evaluation ↓ Model Persistence ↓ Prediction
+
+<br><br>
 
 
 
