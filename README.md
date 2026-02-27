@@ -173,21 +173,21 @@ Raw Text ↓ Text Cleaning ↓ Tokenization ↓ Stopword Removal �
 
 ## 📚 Table of Contents
 
-## 1. [What Is This Notebook About?](#1-what-is-this-notebook-about)
-## 2. [Vector Foundations](#2-vector-foundations)
-## 3. [Cosine Similarity](#3-cosine-similarity)
-## 4. [Word Embeddings](#4-word-embeddings)
-## 5. [Transformers and BERT](#5-transformers-and-bert)
-## 6. [Loading Data](#6-loading-data)
-## 7. [Text Preprocessing](#7-text-preprocessing)
-## 8. [Bag of Words Vectorization](#8-bag-of-words-vectorization)
-## 9. [Train-Test Split](#9-train-test-split)
-## 10. [Model Training](#10-model-training)
-## 11. [Model Evaluation](#11-model-evaluation)
-## 12. [Model Persistence](#12-model-persistence)
-## 13. [Interactive Prediction](#13-interactive-prediction)
-## 14. [NLP Applications in Data Science](#14-nlp-applications-in-data-science)
-## 15. [Technologies Demonstrated](#15-technologies-demonstrated)
+1. [What Is This Notebook About?](#1-what-is-this-notebook-about)
+2. [Vector Foundations](#2-vector-foundations)
+3. [Cosine Similarity](#3-cosine-similarity)
+4. [Word Embeddings](#4-word-embeddings)
+5. [Transformers and BERT](#5-transformers-and-bert)
+6. [Loading Data](#6-loading-data)
+7. [Text Preprocessing](#7-text-preprocessing)
+8. [Bag of Words Vectorization](#8-bag-of-words-vectorization)
+9. [Train-Test Split](#9-train-test-split)
+10. [Model Training](#10-model-training)
+11. [Model Evaluation](#11-model-evaluation)
+12. [Model Persistence](#12-model-persistence)
+13. [Interactive Prediction](#13-interactive-prediction)
+14. [NLP Applications in Data Science](#14-nlp-applications-in-data-science)
+15. [Technologies Demonstrated](#15-technologies-demonstrated)
 
 <br><br>
 
