@@ -184,9 +184,9 @@ Raw Text ↓ Text Cleaning ↓ Tokenization ↓ Stopword Removal �
 9. [Splitting Our Messages (Training and Testing)](#splitting-our-messages-training-and-testing)  
 10. [Teaching Our Computer To Guess Feelings (Model Training)](#teaching-our-computer-to-guess-feelings-model-training)  
 11. [Saving Our Computer’s Brain For Later (Model Persistence)](#saving-our-computers-brain-for-later-model-persistence)  
-12. [Asking The Computer To Guess For Us! (Interactive Prediction)](#asking-the-computer-to-guess-for-us-interactive-prediction)  
-13. [NLP Applications in Data Science](#nlp-applications-in-data-science)  
-
+12. [Asking The Computer To Guess For Us! (Interactive Prediction)](#asking-the-computer-to-guess-for-us-interactive-prediction)
+13. [Interactive Prediction]()
+14. [NLP Applications in Data Science](#nlp-applications-in-data-science)  
 
 <br><br>
 
