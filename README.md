@@ -391,11 +391,11 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 <br>
 
-[*]() Accuracy
-[*]() Precision
-[*]() Recall
-[*]() F1-score
-[*]() Confusion matrix
+[*]() Accuracy <br>
+[*]() Precision <br>
+[*]() Recall <br>
+[*]() F1-score <br>
+[*]() Confusion matrix <br>
 
 
 <br><br>
