@@ -199,9 +199,11 @@ This notebook demonstrates how machines learn to understand human language throu
 
 The objective is to classify textual messages into sentiment categories such as:
 
-- Positive  
-- Negative  
-- Neutral  
+<br>
+
+[*]() Positive  <br>
+[*]() Negative  <br>
+[*]() Neutral  
 
 
 <br><br>
