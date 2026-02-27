@@ -347,6 +347,28 @@ X = vectorizer.fit_transform(df["Text"])
 <br><br>
 
 
+9. Train-Test Split
+
+<br>
+
+
+```python
+from sklearn.model_selection import train_test_split
+
+y, labels = pd.factorize(df["Classificacao"])
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
+)
+```
+
+
+<br><br>
+
+
+
+
+
 
 
 
