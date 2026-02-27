@@ -127,8 +127,23 @@ The architecture reflects real-world NLP systems used in:
 - Opinion mining  
 - Automated text classification  
 
+
 <br><br>
 
+
+## [Project Objectives]()
+
+<br>
+
+- Build a complete NLP pipeline from raw text to prediction  
+- Apply text cleaning and normalization techniques  
+- Convert text into numerical feature representations  
+- Implement Bag of Words and word embedding approaches  
+- Train and evaluate a supervised classification model  
+- Persist trained models for reuse  
+- Enable real-time prediction from user input  
+
+<br><br>
 
 
 
