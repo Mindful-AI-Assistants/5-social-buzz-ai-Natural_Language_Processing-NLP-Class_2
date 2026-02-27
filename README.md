@@ -226,13 +226,29 @@ print("Dot Product:", np.dot(vector1, vector3))
 ```
 
 
-
 <br><br>
 
 
+## 3. [Cosine Similaritys]()
 
+<br>
 
+Cosine similarity measures angular similarity between vectors.
 
+<br>
+
+```python
+import numpy as np
+from numpy.linalg import norm
+
+A = np.array([1, 2, 3])
+B = np.array([2, 3, 4])
+
+cos_sim = A @ B / (norm(A) * norm(B))
+print("Cosine Similarity:", cos_sim)
+```
+
+<br><br>
 
 
 
