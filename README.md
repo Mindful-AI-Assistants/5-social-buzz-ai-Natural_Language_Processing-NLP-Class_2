@@ -461,12 +461,12 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
 
 [*]() Natural Language Processing <br> 
-* Machine Learning <br> 
-* Text Classification <br> 
-* Word Embeddings <br> 
-* Transformer Models (BERT) <br> 
-* Feature Engineering <br> 
-* Model Persistence <br> 
+[*]()  Machine Learning <br> 
+[*]()  Text Classification <br> 
+[*]()  Word Embeddings <br> 
+[*]()  Transformer Models (BERT) <br> 
+[*]()  Feature Engineering <br> 
+[*]()  Model Persistence <br> 
 
 
 
