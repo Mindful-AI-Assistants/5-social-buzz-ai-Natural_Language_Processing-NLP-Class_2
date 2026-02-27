@@ -101,9 +101,9 @@
 
 The repository demonstrates how raw, unstructured text is systematically transformed into structured numerical representations that machines can interpret. Through a complete machine learning pipeline, the project illustrates how linguistic patterns are extracted, modeled, and used to predict sentiment categories such as positive, negative, and neutral.
 
- <br> 
+ <br>  
 
-### - [The notebook follows a progressive workflow:]()
+### * [The notebook follows a progressive workflow:]()
 
  <br> 
 
@@ -147,15 +147,15 @@ The result is a structured learning journey — from mathematical fundamentals t
 
 <br>
 
-- `numpy` — numerical computation and linear algebra  
-- `pandas` — data manipulation and analysis  
-- `nltk` — text preprocessing and stopword filtering  
-- `scikit-learn` — machine learning models and vectorization tools  
-- `gensim` — word embedding models  
-- `transformers` — contextual embeddings (BERT)  
-- `torch` — deep learning backend  
-- `safetensors` — optimized tensor storage  
-- `pickle` — model serialization  
+[*]() `numpy` — numerical computation and linear algebra    <br> 
+[*]() `pandas` — data manipulation and analysis    <br> 
+[*]() `nltk` — text preprocessing and stopword filtering    <br> 
+[*]() `scikit-learn` — machine learning models and vectorization tools    <br> 
+[*]() `gensim` — word embedding models    <br> 
+[*]() `transformers` — contextual embeddings (BERT)    <br> 
+[*]() `torch` — deep learning backend    <br> 
+[*]() `safetensors` — optimized tensor storage    <br> 
+[*]() `pickle` — model serialization  
 
 <br><br>
 
