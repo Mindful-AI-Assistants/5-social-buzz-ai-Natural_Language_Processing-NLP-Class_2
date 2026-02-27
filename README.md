@@ -387,6 +387,22 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 <br><br>
 
 
+11. Model Evaluation
+
+<br>
+
+Evaluation metrics may include:
+
+<br>
+
+* Accuracy
+* Precision
+* Recall
+* F1-score
+* Confusion matrix
+
+
+<br><br>
 
 
 
