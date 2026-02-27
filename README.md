@@ -191,6 +191,25 @@ Natural Language Processing is widely used in real-world systems. Key applicatio
 
 <br><br> 
 
+## [Table of Contents](0
+
+1. What Is This Notebook About?
+2. Playing With Numbers (Vectors)
+3. Finding Out If Two Things Are Alike (Cosine Similarity)
+4. Using Secret Codes For Words (Word Embeddings)
+5. Super-Secret Codes: Transformers and BERT
+6. Getting Our Messages (Loading Data)
+7. Cleaning Up Our Messages (Text Preprocessing)
+8. Turning Words Into Numbers (Bag of Words)
+9. Splitting Our Messages (Training and Testing)
+10. Teaching Our Computer To Guess Feelings (Model Training)
+11. Saving Our Computer’s Brain For Later (Model Persistence)
+12. Asking The Computer To Guess For Us! (Interactive Prediction)
+
+
+
+
+
 
 
 
